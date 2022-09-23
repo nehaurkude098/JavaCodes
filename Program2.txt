@@ -1,0 +1,5 @@
+class A1{
+	public void getDetails(){
+		System.out.println("hi")
+	}
+}
